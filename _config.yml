@@ -29,7 +29,7 @@ github_username:  rowinf
 
 # Build settings
 theme: minima
-show_exerpts: true
+show_excerpts: true
 plugins:
   - jekyll-feed
 
